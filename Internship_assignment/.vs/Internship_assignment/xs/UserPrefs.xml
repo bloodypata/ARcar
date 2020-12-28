@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1BE7D7E8-3414-1021-D87C-D07A96912BF3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MovementScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlacementScript.cs" Line="17" Column="29" />
+      <File FileName="Assets/Scripts/MovementScript.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Internship_assignment" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MovementScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="21b39e16-b111-45fe-bf8c-6049ebc3ed1c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
