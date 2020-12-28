@@ -1,2 +1,0 @@
-com/DefaultCompany/Internship_assignment/BuildConfig.java
- com.DefaultCompany.Internship_assignment.BuildConfig
