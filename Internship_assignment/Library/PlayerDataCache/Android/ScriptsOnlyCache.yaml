@@ -14,9 +14,7 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARCameraBackground
     - UnityEngine.XR.ARFoundation.ARCameraManager
     - UnityEngine.XR.ARFoundation.ARInputManager
-    - UnityEngine.XR.ARFoundation.ARPlane
     - UnityEngine.XR.ARFoundation.ARPlaneManager
-    - UnityEngine.XR.ARFoundation.ARPlaneMeshVisualizer
     - UnityEngine.XR.ARFoundation.ARRaycastManager
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
@@ -80,11 +78,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11900}
     - Class: 114
-      Script: {instanceID: 11934}
-    - Class: 114
       Script: {instanceID: 11990}
-    - Class: 114
-      Script: {instanceID: 12208}
     - Class: 114
       Script: {instanceID: 12764}
     - Class: 114
@@ -102,8 +96,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13540}
     - Class: 115
-      Script: {instanceID: 0}
-    - Class: 120
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -264,7 +256,7 @@ ScriptsOnlyBuild:
     className: PhysicsRaycaster
   - hash:
       serializedVersion: 2
-      Hash: 4aebd901d9b7d1e8ab8a95ec3e3b0ae8
+      Hash: addb92e8e87264d903034fa7f42e9546
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlacementScript

@@ -847,7 +847,6 @@ MonoBehaviour:
   indicator: {fileID: 1699621456}
   car: {fileID: 2981138401528486622, guid: 012c060eec9014c36ab605e8e5a77812, type: 3}
   carIsPlaced: 0
-  turnOff: {fileID: 1965281397}
 --- !u!4 &1915553582
 Transform:
   m_ObjectHideFlags: 0
@@ -921,8 +920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1760703bbd54c04488a8d10600262ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PlanePrefab: {fileID: 7349295556925558813, guid: 552f3a7de45534b088acdf80dbe944f0,
-    type: 3}
+  m_PlanePrefab: {fileID: 0}
   m_DetectionMode: 1
 --- !u!114 &1965281398
 MonoBehaviour:

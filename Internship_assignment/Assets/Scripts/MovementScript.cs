@@ -17,7 +17,7 @@ public class MovementScript : MonoBehaviour
     {
 
         rotateCar = joystick.Horizontal * 2f;
-        moveCar = joystick.Vertical * Time.deltaTime * 2f;
+        moveCar = joystick.Vertical * Time.deltaTime * 0.5f;
         transform.Rotate(0, rotateCar, 0);
         transform.Translate(0, 0, moveCar);
 
